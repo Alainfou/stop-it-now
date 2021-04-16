@@ -1,0 +1,37 @@
+html, body {
+    padding: 1em;
+    text-align: center;
+    font-family: Arimo, Verdana
+}
+
+input {
+    margin: 1em
+}
+
+.hidden {
+    display: none;
+}
+
+.button {
+    margin: 5% auto;
+    padding: 5px;
+    text-align: center;
+    font-size: 1.5em;
+    cursor: pointer;
+}
+
+.tool:hover {
+    background-color: #3CB371;
+}
+
+.tool {
+    background-color: #07DE88;
+}
+
+.reset {
+    background-color: #A55356;
+}
+
+.reset:hover {
+    background-color: #E88386;
+}
